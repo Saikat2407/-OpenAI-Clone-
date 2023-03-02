@@ -22,19 +22,6 @@ code {
     monospace;
 }
 
-/* textarea {
-  border: none;
-  overflow: auto;
-  outline: none;
-
-  -webkit-box-shadow: none;
-  -moz-box-shadow: none;
-  box-shadow: none;
-} */
-
-/* .sidebar {
-  box-shadow: 3px 0 3px 0 #000;
-} */
 
 .github-corner:hover .octo-arm {
   animation: octocat-wave 560ms ease-in-out;
